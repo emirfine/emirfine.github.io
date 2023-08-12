@@ -1,5 +1,7 @@
 Mini Project : Bitcoin Price Indicators 
 
+  ![image](https://github.com/emirfine/emirfine.github.io/assets/33411971/5ab14765-e1a7-42a0-be05-d1d0066c9661)
+
 1. Bitcoin(BTC) 현황
    : 비트코인은 현재 선물ETF 등의 금융상품이 운영되고 있으며,
      특히 올해 미국 CFTC(미국상품거래위원회), SEC(미국증권거래위원회) 수장들의 BTC 관련 긍정적 발언 및
