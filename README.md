@@ -1,6 +1,8 @@
-Mini Project : Bitcoin Price Indicators 
+Mini Project : S&P 500 : XGBoost prediction 
 
   ![image](https://github.com/emirfine/emirfine.github.io/assets/33411971/5ab14765-e1a7-42a0-be05-d1d0066c9661)
+
+Mini Project : Bitcoin Price Indicators 
 
 1. Bitcoin(BTC) 현황
    : 비트코인은 현재 선물ETF 등의 금융상품이 운영되고 있으며,
