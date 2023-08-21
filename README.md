@@ -7,16 +7,17 @@ Mini Project : Bitcoin Price Indicators
 1. Bitcoin(BTC) 현황
    : 비트코인은 현재 선물ETF 등의 금융상품이 운영되고 있으며,
      특히 올해 미국 CFTC(미국상품거래위원회), SEC(미국증권거래위원회) 수장들의 BTC 관련 긍정적 발언 및
-     블랙록, 피델리티 등 금융자본들의 잇따른 현물 ETF 신청 등의 현상으로 판단시 이미 금융 제도권내에 진입한 것으로 사료됨
+     블랙록, 피델리티 등 금융자본들의 잇따른 현물 ETF 신청 등의 현상으로 판단시 향후 금융 제도권내에 진입 가능성이
+     높을 것으로 사료됨
    
-2. 데이터
+3. 데이터
  : FinanceDataReader를 통해 2020년 10월 1일 부터 2023년 7월 28일까지의 약 2년 10개월의 일일 가격 데이터 
 
-3. Adj Close(조정 종가) 기반 분석
+4. Adj Close(조정 종가) 기반 분석
  : 확보된 일일 데이터의 item들인 Open(시가), High(고가), Low(저가), Close(종가), Adj Close(조정 종가), Volume(거래량)중
    해당 기간 동안 발생한 이벤트나 분할 등의 조정 요소( ex) 하드포크)를 반영한 Adj Close를 기반하여 분석
 
-4. Indicators
+5. Indicators
   - Bollinger Band : 20일 이동평균 +- (표준편차 * 2)
   - RSI(상대적 강도 지수) : 14일 이동평균의 상승/하락 
   - RSI Signal : 6일 이동 평균선 기반
